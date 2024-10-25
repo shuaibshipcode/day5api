@@ -1,0 +1,14 @@
+img{
+    height: 300px;
+}
+.card{
+    height: auto;
+}
+.card-text{
+    height: auto;
+}
+.nht{
+    height: 500px;
+    font-weight: 400px;
+    padding: 20px;
+}
